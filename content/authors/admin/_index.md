@@ -16,12 +16,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include data science, design and analysis of computer experiments, and statistical consulting.
 
-istributed robotics, mobile computing and programmable matter.
-
 # Interests to show in About widget
 interests:
 - Data Science.
-- Design and Analysis of Computer Experiments
+- Design and Analysis of Computer Experiments.
 - Statistical Consulting.
 - Data Visualization.
 
