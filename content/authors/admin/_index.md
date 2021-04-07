@@ -18,10 +18,10 @@ bio: My research interests include data science, design and analysis of computer
 
 # Interests to show in About widget
 interests:
-- Data Science.
-- Design and Analysis of Computer Experiments.
-- Statistical Consulting.
-- Data Visualization.
+- Data Science
+- Design and Analysis of Computer Experiments
+- Statistical Consulting
+- Data Visualization
 
 # Education to show in About widget
 education:
