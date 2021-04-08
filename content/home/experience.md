@@ -26,8 +26,8 @@ experience:
     company: UBC Data Science Institute
     company_url: 'https://dsi.ubc.ca'
     location: Vancouver, BC, Canada
-    date_start: '2019-05'
-    date_end: '2019-08'
+    date_start: '2019-05-01'
+    date_end: '2019-08-31'
     description: |2-
         The Data Science for Social Good program is part of the Data Science Institute and runs annually every summer term. The program has interdisciplinary teams composed of undergraduate and graduate students, who partner with public organizations in data science related projects with a social impact.
         
