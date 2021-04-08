@@ -22,6 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Graduate Consulting Staff Manager. 
+    company: Department of Statistics at UBC
+    company_url: 'https://www.stat.ubc.ca'
+    location: Vancouver, BC, Canada
+    date_start: '2018-06-01'
+    date_end: '2020-08-31'
+    description: |2-
+        Position within the STCS and SOS programs with the following duties:
+        
+        + Contact between the STCS consulting team and clients in terms of project submissions, additional consulting inquiries, and billing.
+        + Contact between the ASDa group and the SOS consulting team in terms of project submissions and staff roster.
+        + Recruitment tasks for both programs among the graduate students at the Department of Statistics.
+
   - title: Summer Fellow in the Social Good Program
     company: UBC Data Science Institute
     company_url: 'https://dsi.ubc.ca'
@@ -31,7 +45,7 @@ experience:
     description: |2-
         The Social Good program is part of the Data Science Institute and runs annually every summer term. The program has interdisciplinary teams composed of undergraduate and graduate students, who partner with public organizations in data science related projects with a social impact. 
         
-        The project was run in collaboration with the City of Surrey. The main activities were focused on exploratory data analysis and modelling, which were targeted to assist policy decision makers in the implementation of the city’s electric vehicle strategy (more information can be found [here](https://dsi.ubc.ca/data-science-social-good-2019)).
+        The project was run in collaboration with the City of Surrey, BC. The main activities were focused on exploratory data analysis and modelling, which were targeted to assist policy decision makers in the implementation of the city’s electric vehicle strategy (more information can be found [here](https://dsi.ubc.ca/data-science-social-good-2019)).
         
   - title: Professor
     company: University X
