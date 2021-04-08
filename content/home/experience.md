@@ -62,4 +62,16 @@ experience:
     
         + Part of the team who was in direct contact with every financial figure involved in the process of a mortgage portfolio management: trustees, development banking, common representatives, bondholders, and rating agencies. These portfolios back different mortgage-secured bonds in the Mexican securities market
         + Reporting as well as statistical and database analysis required by these financial figures.
+
+  - title: Credit Risk Analyst
+    company: Risk Management, Banorte Financial Group
+    company_url: 'https://www.banorte.com/cms/informes/informe_anual_2014/eng/gfnorte_glance.html'
+    location: Monterrey, Nuevo León, México
+    date_start: '2008-08-01'
+    date_end: '2011-06-30'
+    description: |2-
+    
+        + Periodic control, monitoring, and statistical analysis of credit risk exposure in the bank’s portfolio.
+        + Global credit limits management and control regulation for State and Municipality Governments, and Common Risk Groups.
+        + Statistical credit risk reporting for the Risk Management Direction, Risk Policies Committee, and Board of Directors.
 ---
