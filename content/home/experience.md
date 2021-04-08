@@ -23,19 +23,31 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Graduate Consulting Staff Manager. 
+  - title: Graduate Consulting Staff Manager
     company: Department of Statistics at UBC
     company_url: 'https://www.stat.ubc.ca'
     location: Vancouver, BC, Canada
     date_start: '2018-06-01'
     date_end: '2020-08-31'
     description: |2-
-        Position within the STCS and SOS programs with the following duties:
+        This position was held in the [Statistical Opportunity for Students (SOS) program](https://asda.stat.ubc.ca/sos/) and the [Short Term Consulting Service (STCS)](https://www.stat.ubc.ca/~stcs/): 
+        
+        + The SOS program is designed to help UBC graduate students formulate and understand the statistical matters involved in their research projects. This initiative is managed by the [Applied Statistics and Data Science (ASDa) group](https://asda.stat.ubc.ca) at the Department of Statistics. 
+        + The STCS is entirely run by graduate students of the Department of Statistics. This initiative is meant to provide professional statistical assistance to on and off-campus clients. Graduate consultants are completely in charge of these consulting projects.
+         
+        I performed the following duties in this position:
         
         + Contact between the STCS consulting team and clients in terms of project submissions, additional consulting inquiries, and billing.
         + Contact between the ASDa group and the SOS consulting team in terms of project submissions and staff roster.
         + Recruitment tasks for both programs among the graduate students at the Department of Statistics.
-
+  
+  - title: Statistical Consultant in the SOS program and STCS
+    company: Department of Statistics at UBC
+    company_url: 'https://www.stat.ubc.ca'
+    location: Vancouver, BC, Canada
+    date_start: '2017-09-01'
+    date_end: '2020-08-31'
+    
   - title: Summer Fellow in the Social Good Program
     company: UBC Data Science Institute
     company_url: 'https://dsi.ubc.ca'
