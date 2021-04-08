@@ -6,7 +6,7 @@ title: G. Alexi Rodríguez-Arelis
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Teaching and Learning Fellow of the Master of Data Science Program (Vancouver Option)
+role: Postdoctoral Teaching & Learning Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
