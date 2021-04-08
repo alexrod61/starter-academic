@@ -3,14 +3,13 @@ title: How to improve prediction accuracy in the analysis of computer experiment
 summary: PhD Dissertation
 tags:
 - Machine Learning
+- Spatial Statistics
+- Gaussian Processes
+- Dimensional Analysis
 date: "2020-11-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
-
-# image:
-#  caption: Photo by rawpixel on Unsplash
-#  focal_point: Smart
 
 links:
 url_code: ""
