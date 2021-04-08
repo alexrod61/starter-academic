@@ -1,3 +1,4 @@
+---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
@@ -8,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Industry Experience
 subtitle:
 
 # Date format for experience
@@ -21,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+  - title: Summer Fellow in the Social Good Program
+    company: UBC Data Science Institute
+    company_url: 'https://dsi.ubc.ca'
+    location: Vancouver, BC, Canada
+    date_start: '2019-05-01'
+    date_end: '2019-08-31'
     description: |2-
-        Responsibilities include:
+        The Social Good program is part of the Data Science Institute and runs annually every summer term. The program has interdisciplinary teams composed of undergraduate and graduate students, who partner with public organizations in data science related projects with a social impact.
         
         * Analysing
         * Modelling
