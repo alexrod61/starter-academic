@@ -22,6 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral Teaching & Learning Fellow
+    company: Master of Data Science Program at the Department of Statistics, UBC
+    company_url: 'https://masterdatascience.ubc.ca/why-ubc/leadership'
+    location: Vancouver, BC, Canada
+    date_start: '2021-01-01'
+    date_end: 
+    description: |2-
+        Lecture, lab instructor, and/or mentor in the Master of Data Science program (Vancouver option) for the following courses:
+        
+        +  DSCI 552: Statistical Inference and Computation I
+        +  DSCI 561: Regression I
+        +  DSCI 562: Regression II
+        +  DSCI 554: Experimentation and Causal Inference
+        +  DSCI 591: Capstone Project
+
   - title: Graduate Consulting Staff Manager
     company: Department of Statistics, UBC
     company_url: 'https://www.stat.ubc.ca'
@@ -93,8 +108,8 @@ experience:
     description: |2-
         Teaching-related activities include grading exams and/or projects, practicum design, and holding laboratories/office hours for the following undergraduate courses on a term-to-term basis:
         
-        +  STAT 200: Elementary Statistics for Applications in Science.
-        +  STAT 251: Elementary Statistics for Engineering.
-        +  STAT 305: Introduction to Statistical Inference.
-        +  STAT 404: Design and Analysis of Experiments.
+        +  STAT 200: Elementary Statistics for Applications in Science
+        +  STAT 251: Elementary Statistics for Engineering
+        +  STAT 305: Introduction to Statistical Inference
+        +  STAT 404: Design and Analysis of Experiments
 ---
