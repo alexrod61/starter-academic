@@ -1,5 +1,5 @@
 ---
-title: How to improve prediction accuracy in the analysis of computer experiments, exploitation of low-order effects and dimensional analysis
+title: How to Improve Prediction Accuracy in the Analysis of Computer Experiments: Exploitation of Low-Order Effects and Dimensional Analysis
 summary: PhD Dissertation
 tags:
 - Machine Learning
