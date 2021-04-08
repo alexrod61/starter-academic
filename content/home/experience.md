@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Industry Experience
+title: Academic and Professional Experience
 subtitle:
 
 # Date format for experience
@@ -53,11 +53,15 @@ experience:
         
         The project was run in collaboration with the City of Surrey, BC. The main activities were focused on exploratory data analysis and modelling, which were targeted to assist policy decision makers in the implementation of the city’s electric vehicle strategy (more information can be found [here](https://dsi.ubc.ca/data-science-social-good-2019)).
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Portfolio Information Coordinator
+    company: Tertius, Mortgage Portfolio Management Services
+    company_url: 'http://tertius.com.mx'
+    location: Monterrey, Nuevo León, México
+    date_start: '2013-06-01'
+    date_end: '2014-07-31'
+    description: |2-
+    
+        + Part of the team who was in direct contact with every financial figure involved in the process of a mortgage portfolio management: trustees, development banking, common representatives, bondholders, and rating agencies. These portfolios back different mortgage-secured bonds in the Mexican securities market
+        + Reporting as well as statistical and database analysis required by these financial figures.
+
 ---
