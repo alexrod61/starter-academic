@@ -28,14 +28,6 @@ feature:
   icon: project-diagram
   icon_pack: fas
   name: Statistical Consulting
-- description: 100%
-  icon: chart-bar
-  icon_pack: fas
-  name: Data Visualization
-- description: 100%
-  icon: sigma
-  icon_pack: fas
-  name: Data Analysis
 - description: 70%
   icon: computer-classic
   icon_pack: fas
