@@ -10,8 +10,8 @@ role: Postdoctoral Teaching and Learning Fellow of the Master of Data Science Pr
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Department of Statistics, University of British Columbia
-  url: https://www.stat.ubc.ca
+- name: Master of Data Science Program at the Department of Statistics, University of British Columbia
+  url: https://masterdatascience.ubc.ca/why-ubc/leadership
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include data science, design and analysis of computer experiments, and statistical consulting.
