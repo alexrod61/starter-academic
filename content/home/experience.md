@@ -34,13 +34,4 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-        
-- title: Research Assistant
-    company: Department of Statistics, UBC
-    company_url: 'https://www.stat.ubc.ca'
-    location: Vancouver, BC, Canada
-    date_start: '2014-09-01'
-    date_end: '2020-08-31'
-    description: |2-
-        Research-related activities as part of the doctoral dissertation in computer experiments, which was focused on the prediction accuracy impact with a reformulation in the data correlation structures of a Gaussian Stochastic Process along with dimensional analysis. This reformulations rely on certain effect principles, which have been used in physical factorial experiments, as well mathematical theorems applied to dimensional analysis coming from the early beginnings of the 20th century.
 ---
