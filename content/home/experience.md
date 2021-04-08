@@ -34,12 +34,6 @@ experience:
         
         + The SOS program is designed to help UBC graduate students formulate and understand the statistical matters involved in their research projects. This initiative is managed by the [Applied Statistics and Data Science (ASDa) group](https://asda.stat.ubc.ca) at the Department of Statistics. 
         + The STCS is entirely run by graduate students of the Department of Statistics. This initiative is meant to provide professional statistical assistance to on and off-campus clients. Graduate consultants are completely in charge of these consulting projects.
-         
-        I performed the following duties in this position:
-        
-        + Contact between the STCS consulting team and clients in terms of project submissions, additional consulting inquiries, and billing.
-        + Contact between the ASDa group and the SOS consulting team in terms of project submissions and staff roster.
-        + Recruitment tasks for both programs among the graduate students at the Department of Statistics.
   
   - title: Statistical Consultant in the SOS program and STCS
     company: Department of Statistics at UBC
