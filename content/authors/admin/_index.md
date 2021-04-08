@@ -14,7 +14,7 @@ organizations:
   url: https://masterdatascience.ubc.ca/why-ubc/leadership
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include data science, design and analysis of computer experiments, and statistical consulting.
+bio: My research interests include Data Science, design and analysis of computer experiments, and statistical consulting.
 
 # Interests to show in About widget
 interests:
