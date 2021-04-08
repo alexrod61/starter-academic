@@ -48,7 +48,7 @@ experience:
     date_start: '2019-05-01'
     date_end: '2019-08-31'
     description: |2-
-        The Social Good program is part of the Data Science Institute and runs annually every summer term. The program has interdisciplinary teams composed of undergraduate and graduate students, who partner with public organizations in data science related projects with a social impact. 
+        The Social Good program is part of the Data Science Institute and runs annually every summer term. The program has interdisciplinary teams composed of undergraduate and graduate students, who partner with public organizations in Data Science related projects with a social impact. 
         
         The project was run in collaboration with the City of Surrey, BC. The main activities were focused on exploratory data analysis and modelling, which were targeted to assist policy decision makers in the implementation of the  city’s electric vehicle strategy (more information can be found [here](https://dsi.ubc.ca/data-science-social-good-2019)).
         
