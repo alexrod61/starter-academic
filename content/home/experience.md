@@ -29,9 +29,10 @@ experience:
     date_start: '2021-01-01'
     date_end: 
     description: |2-
-        Lecture, lab instructor, and/or mentor in the Master of Data Science program (Vancouver option) for the following courses:
+        Lecture, lab instructor, and/or mentor in the [Master of Data Science program](https://ubc-mds.github.io/descriptions/) (Vancouver option) for the following courses:
         
         +  DSCI 552: Statistical Inference and Computation I
+        +  DSCI 553: Statistical Inference and Computation II
         +  DSCI 561: Regression I
         +  DSCI 562: Regression II
         +  DSCI 554: Experimentation and Causal Inference
