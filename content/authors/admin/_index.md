@@ -71,6 +71,6 @@ email: ""
 highlight_name: false
 ---
 
-I'm an instructor in the Master of Data Science program at the University of British Columbia. I have worked in diverse fields throughout my academic and professional trajectory, such as credit risk management, statistical consulting, and Data Science teaching. I have a background in Industrial Engineering, and Applied Statistics including research related to machine learning. 
+I'm an instructor in the Master of Data Science program at the University of British Columbia. I've worked in diverse fields throughout my academic and professional trajectory, such as credit risk management, statistical consulting, and Data Science teaching. I have a background in Industrial Engineering, and Applied Statistics including research related to machine learning. 
 
 My academic work is mostly focused on computer experiments that emulate scientific and engineering systems via Gaussian stochastic processes. I've developed modelling reformulations that seek to improve output prediction accuracy while relying on Dimensional Analysis and statistical principles from the first half of the 20th century. I'm also incredibly passionate about teaching statistical topics in a Data Science context while approaching real-life data-related projects for social good.
