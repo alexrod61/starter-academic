@@ -45,7 +45,7 @@ experience:
     date_start: '2021-09-07'
     date_end: 
     description: |2-
-        Lecture instructor for the Faculty of Science for the course SCIE 300: Communicating Science.
+        Lecture instructor in the Faculty of Science for the course SCIE 300: Communicating Science.
 
   - title: Graduate Consulting Staff Manager
     company: Department of Statistics, UBC
