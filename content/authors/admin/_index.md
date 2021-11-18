@@ -29,7 +29,7 @@ education:
   - course: PhD in Statistics
     institution: University of British Columbia
     year: 2020
-  - course: MSc in Applied Statistics
+  - course: Master in Applied Statistics
     institution: Tecnológico de Monterrey
     year: 2013
   - course: BSc in Industrial Engineering
