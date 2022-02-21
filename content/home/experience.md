@@ -43,7 +43,7 @@ experience:
     company_url: 'https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SCIE&course=300'
     location: Vancouver, BC, Canada
     date_start: '2021-09-07'
-    date_end: 
+    date_end: '2021-12-31'
     description: |2-
         Lecture instructor in the Faculty of Science for the course SCIE 300: Communicating Science.
 
