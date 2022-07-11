@@ -31,6 +31,7 @@ experience:
     description: |2-
         Lecture, lab instructor, and/or mentor in the [Master of Data Science program](https://ubc-mds.github.io/descriptions/) (Vancouver option) for the following courses:
         
+        +  DSCI 551: Descriptive Statistics and Probability for Data Science
         +  DSCI 552: Statistical Inference and Computation I
         +  DSCI 553: Statistical Inference and Computation II
         +  DSCI 554: Experimentation and Causal Inference
@@ -43,7 +44,7 @@ experience:
     company_url: 'https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SCIE&course=300'
     location: Vancouver, BC, Canada
     date_start: '2021-09-07'
-    date_end: '2021-12-31'
+    date_end:
     description: |2-
         Lecture instructor in the Faculty of Science for the course SCIE 300: Communicating Science.
 
