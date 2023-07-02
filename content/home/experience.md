@@ -22,12 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+ - title: Assistant Professor of Teaching
+    company: Department of Statistics, UBC
+    company_url: 'https://www.stat.ubc.ca'
+    location: Vancouver, BC, Canada
+    date_start: '2023-07-01'
+    date_end:
+
   - title: Postdoctoral Teaching & Learning Fellow
     company: Master of Data Science Program at the Department of Statistics, UBC
     company_url: 'https://masterdatascience.ubc.ca/why-ubc/leadership'
     location: Vancouver, BC, Canada
     date_start: '2021-01-01'
-    date_end: 
+    date_end: '2023-06-30'
     description: |2-
         Lecture, lab instructor, and/or mentor in the [Master of Data Science program](https://ubc-mds.github.io/descriptions/) (Vancouver option) for the following courses:
         
@@ -44,7 +51,7 @@ experience:
     company_url: 'https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SCIE&course=300'
     location: Vancouver, BC, Canada
     date_start: '2021-09-07'
-    date_end:
+    date_end: '2022-12-31'
     description: |2-
         Lecture instructor in the Faculty of Science for the course SCIE 300: Communicating Science.
 
