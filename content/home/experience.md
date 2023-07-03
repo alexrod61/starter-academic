@@ -25,17 +25,17 @@ experience:
 
   - title: Assistant Professor of Teaching
     company: Department of Statistics, UBC
-    company_url: 'https://masterdatascience.ubc.ca/why-ubc/leadership'
+    company_url: 'https://www.stat.ubc.ca'
     location: Vancouver, BC, Canada
     date_start: '2023-07-01'
     date_end:
 
   - title: Postdoctoral Teaching & Learning Fellow
-    company: Master of Data Science Program at the Department of Statistics, UBC
+    company: Master of Data Science, UBC
     company_url: 'https://masterdatascience.ubc.ca/why-ubc/leadership'
     location: Vancouver, BC, Canada
     date_start: '2021-01-01'
-    date_end: '2023-06-29'
+    date_end: '2023-06-30'
     description: |2-
         Lecture, lab instructor, and/or mentor in the [Master of Data Science program](https://ubc-mds.github.io/descriptions/) (Vancouver option) for the following courses:
         
