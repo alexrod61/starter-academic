@@ -28,7 +28,7 @@ experience:
     company_url: 'https://masterdatascience.ubc.ca/why-ubc/leadership'
     location: Vancouver, BC, Canada
     date_start: '2021-01-01'
-    date_end: '2023-06-30'
+    date_end: '2023-06-29'
     description: |2-
         Lecture, lab instructor, and/or mentor in the [Master of Data Science program](https://ubc-mds.github.io/descriptions/) (Vancouver option) for the following courses:
         
