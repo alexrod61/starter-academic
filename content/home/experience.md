@@ -30,7 +30,7 @@ experience:
     date_start: '2023-07-01'
     date_end:
     description: |3-
-        Part of the academic team of the [Master of Data Science]([https://ubc-mds.github.io/team/](https://ubc-mds.github.io/descriptions/)) (Vancouver program) for the following courses:
+        Part of the academic team of the [Master of Data Science](https://ubc-mds.github.io/descriptions/) (MDS) for the following courses:
 
         +  DSCI 551: Descriptive Statistics and Probability for Data Science
         +  DSCI 553: Statistical Inference and Computation II
@@ -45,7 +45,7 @@ experience:
     date_start: '2021-01-01'
     date_end: '2023-06-30'
     description: |2-
-        Lecture, lab instructor, and/or mentor in the Master of Data Science for the following courses:
+        Lecture, lab instructor, and/or mentor in the MDS for the following courses:
         
         +  DSCI 551: Descriptive Statistics and Probability for Data Science
         +  DSCI 552: Statistical Inference and Computation I
@@ -56,13 +56,13 @@ experience:
         +  DSCI 591: Capstone Project
   
   - title: Instructor
-    company: Faculty of Science, UBC
-    company_url: 'https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=SCIE&course=300'
+    company: Combined Major of Science, UBC
+    company_url: 'https://cms.science.ubc.ca'
     location: Vancouver, BC, Canada
     date_start: '2021-09-07'
     date_end: '2022-12-31'
     description: |2-
-        Lecture instructor in the Faculty of Science for the course SCIE 300: Communicating Science.
+        Lecture instructor in the Combined Major of Science for the course SCIE 300: Communicating Science.
 
   - title: Graduate Consulting Staff Manager
     company: Department of Statistics, UBC
