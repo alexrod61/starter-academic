@@ -29,7 +29,7 @@ experience:
     location: Vancouver, BC, Canada
     date_start: '2023-07-01'
     date_end:
-    description: |2-
+    description: |3-
         Part of the academic team of the [Master of Data Science](https://ubc-mds.github.io/team/) (Vancouver program) in charge of the following courses:
 
         +  DSCI 551: Descriptive Statistics and Probability for Data Science
