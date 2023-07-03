@@ -32,10 +32,10 @@ experience:
     description: |2-
         Part of the academic team of the [Master of Data Science](https://ubc-mds.github.io/team/) (Vancouver program) in charge of the following courses:
 
-            - DSCI 551: Descriptive Statistics and Probability for Data Science
-            - DSCI 553: Statistical Inference and Computation II
-            - DSCI 554: Experimentation and Causal Inference
-            - DSCI 562: Regression II    
+        +  DSCI 551: Descriptive Statistics and Probability for Data Science
+        +  DSCI 553: Statistical Inference and Computation II
+        +  DSCI 554: Experimentation and Causal Inference
+        +  DSCI 562: Regression II    
 
   - title: Postdoctoral Teaching & Learning Fellow
     company: Master of Data Science, UBC
