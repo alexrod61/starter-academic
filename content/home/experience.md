@@ -23,15 +23,6 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
- - title: Assistant Professor of Teaching
-    company: Department of Statistics, UBC
-    company_url: 'https://www.stat.ubc.ca'
-    location: Vancouver, BC, Canada
-    date_start: '2023-07-01'
-    date_end: 
-    description: |2-
-       Position
-
   - title: Postdoctoral Teaching & Learning Fellow
     company: Master of Data Science Program at the Department of Statistics, UBC
     company_url: 'https://masterdatascience.ubc.ca/why-ubc/leadership'
