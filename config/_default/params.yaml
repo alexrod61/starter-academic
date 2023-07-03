@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: coffee
+theme: minimal
 day_night: true
 font: ''
 font_size: L
@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: alexrod@stat.ubc.ca
-phone: +1 (604) 822-2379
+# phone: +1 (604) 822-2379
 address:
   street: Earth Sciences Building, 2207 Main Mall
   city: Vancouver
