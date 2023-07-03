@@ -30,24 +30,22 @@ experience:
     date_start: '2023-07-01'
     date_end:
     description: |3-
-        Part of the academic team of the [Master of Data Science](https://ubc-mds.github.io/team/) (Vancouver program) in charge of the following courses:
+        Part of the academic team of the [Master of Data Science]([https://ubc-mds.github.io/team/](https://ubc-mds.github.io/descriptions/)) (Vancouver program) for the following courses:
 
         +  DSCI 551: Descriptive Statistics and Probability for Data Science
-    
-            * a
-    
         +  DSCI 553: Statistical Inference and Computation II
         +  DSCI 554: Experimentation and Causal Inference
-        +  DSCI 562: Regression II    
+        +  DSCI 562: Regression II
+        +  DSCI 591: Capstone Project    
 
   - title: Postdoctoral Teaching & Learning Fellow
     company: Master of Data Science, UBC
-    company_url: 'https://masterdatascience.ubc.ca/why-ubc/leadership'
+    company_url: 'https://masterdatascience.ubc.ca'
     location: Vancouver, BC, Canada
     date_start: '2021-01-01'
     date_end: '2023-06-30'
     description: |2-
-        Lecture, lab instructor, and/or mentor in the Master of Data Science [for the following courses](https://ubc-mds.github.io/descriptions/):
+        Lecture, lab instructor, and/or mentor in the Master of Data Science for the following courses:
         
         +  DSCI 551: Descriptive Statistics and Probability for Data Science
         +  DSCI 552: Statistical Inference and Computation I
