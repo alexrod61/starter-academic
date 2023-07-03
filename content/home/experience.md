@@ -28,8 +28,9 @@ experience:
     company_url: 'https://www.stat.ubc.ca'
     location: Vancouver, BC, Canada
     date_start: '2023-07-01'
-    date_end: '2023-07-02'
+    date_end: 
     description: |2-
+       Position
 
   - title: Postdoctoral Teaching & Learning Fellow
     company: Master of Data Science Program at the Department of Statistics, UBC
