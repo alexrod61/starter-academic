@@ -40,6 +40,10 @@ feature:
   icon: keyboard
   icon_pack: fas
   name: C
+- description: 60%
+  icon: python
+  icon_pack: fab
+  name: Python
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
