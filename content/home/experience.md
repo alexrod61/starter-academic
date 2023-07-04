@@ -30,7 +30,7 @@ experience:
     date_start: '2023-07-01'
     date_end:
     description: |3-
-        Part of the academic team of the [Master of Data Science](https://ubc-mds.github.io/descriptions/) (MDS) for the following courses:
+        Part of the academic team of the [Master of Data Science](https://ubc-mds.github.io/descriptions/) (MDS). I'm involved in the following courses:
 
         +  DSCI 551: Descriptive Statistics and Probability for Data Science
         +  DSCI 553: Statistical Inference and Computation II
