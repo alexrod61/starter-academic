@@ -22,15 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-
- - title: Instructor
-    company: Faculty of Science, UBC
-    company_url: 'https://cms.science.ubc.ca](https://science.ubc.ca/students/new/first/113'
-    location: Vancouver, BC, Canada
-    date_start: '2023-09-01'
-    date_end:
-    description: |2-
-        Lecture instructor for the course SCIE 113:  First-Year Seminar in Science.
   
   - title: Assistant Professor of Teaching
     company: Department of Statistics, UBC
