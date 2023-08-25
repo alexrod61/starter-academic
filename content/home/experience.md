@@ -30,7 +30,7 @@ experience:
     date_start: '2023-09-01'
     date_end:
     description: |2-
-        Lecture instructor for the course SCIE 113:  First-Year Seminar in Science.
+        Lecture instructor for the course SCIE 113: First-Year Seminar in Science.
      
   - title: Assistant Professor of Teaching
     company: Department of Statistics, UBC
