@@ -42,6 +42,7 @@ experience:
         Part of the academic team of the [Master of Data Science](https://ubc-mds.github.io/descriptions/) (MDS). I'm involved in the following courses:
 
         +  DSCI 551: Descriptive Statistics and Probability for Data Science
+        +  DSCI 552: Statistical Inference and Computation I
         +  DSCI 553: Statistical Inference and Computation II
         +  DSCI 554: Experimentation and Causal Inference
         +  DSCI 562: Regression II
