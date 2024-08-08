@@ -22,16 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  
+
   - title: Instructor
-    company: Faculty of Science, UBC
-    company_url: 'https://science.ubc.ca/students/new/first/113'
+    company: Combined Major of Science, UBC
+    company_url: 'https://cms.science.ubc.ca'
     location: Vancouver, BC, Canada
-    date_start: '2023-09-01'
-    date_end:
+    date_start: '2024-09-01'
+    date_end: 
     description: |2-
-        Lecture instructor for the course SCIE 113: First-Year Seminar in Science.
-     
+        Lecture instructor in the Combined Major of Science for the course SCIE 300: Communicating Science.
+
   - title: Assistant Professor of Teaching
     company: Department of Statistics, UBC
     company_url: 'https://www.stat.ubc.ca'
@@ -46,6 +46,15 @@ experience:
         +  DSCI 554: Experimentation and Causal Inference
         +  DSCI 562: Regression II
         +  DSCI 591: Capstone Project    
+  
+  - title: Instructor
+    company: Faculty of Science, UBC
+    company_url: 'https://science.ubc.ca/students/new/first/113'
+    location: Vancouver, BC, Canada
+    date_start: '2023-09-01'
+    date_end: '2023-12-31'
+    description: |2-
+        Lecture instructor for the course SCIE 113: First-Year Seminar in Science.
 
   - title: Postdoctoral Teaching & Learning Fellow
     company: Master of Data Science, UBC
