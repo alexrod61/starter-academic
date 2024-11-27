@@ -9,10 +9,10 @@ tags:
 date: ""
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://alexrod61.github.io/regression-cookbook/"
+external_link: ""
 
 links:
-url_code: ""
+url_code: "https://alexrod61.github.io/regression-cookbook/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
