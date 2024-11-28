@@ -1,5 +1,5 @@
 ---
-title: Data-Adaptive Dimensional Analysis for Accurate Interpolation and Extrapolation in Computer Experiments
+title: "Data-Adaptive Dimensional Analysis for Accurate Interpolation and Extrapolation in Computer Experiments"
 summary: arXiv Preprint
 - Machine Learning
 - Data Analysis
