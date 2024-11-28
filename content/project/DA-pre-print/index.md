@@ -1,12 +1,13 @@
 ---
-title: Test
+title: Data-Adaptive Dimensional Analysis for Accurate Interpolation and Extrapolation in Computer Experiments
 summary: arXiv Preprint
+tags:
 - Machine Learning
 - Data Analysis
 - Statistics and Probability
 - Applications
 - Dimensional Analysis
-date: "2024-12-14T00:00:00Z"
+date: "2023-12-14T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
