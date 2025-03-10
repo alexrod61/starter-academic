@@ -28,7 +28,7 @@ experience:
     company_url: 'https://cms.science.ubc.ca'
     location: Vancouver, BC, Canada
     date_start: '2024-09-01'
-    date_end: 
+    date_end: '2024-12-31'
     description: |2-
         Lecture instructor in the Combined Major of Science for the course SCIE 300: Communicating Science.
 
