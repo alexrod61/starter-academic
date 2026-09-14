@@ -24,6 +24,15 @@ date_format: Jan 2006
 experience:
 
   - title: Instructor
+    company: Faculty of Science, UBC
+    company_url: 'https://science.ubc.ca/students/new/first/113'
+    location: Vancouver, BC, Canada
+    date_start: '2026-09-08'
+    date_end: 
+    description: |2-
+        Lecture instructor for the course SCIE 113: First-Year Seminar in Science.
+  
+  - title: Instructor
     company: Combined Major of Science, UBC
     company_url: 'https://cms.science.ubc.ca'
     location: Vancouver, BC, Canada
